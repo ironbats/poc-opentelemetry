@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/application-telemetry/application-telemetry.iml" filepath="$PROJECT_DIR$/application-telemetry/application-telemetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/open-telemetry.iml" filepath="$PROJECT_DIR$/.idea/open-telemetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentelemetry/opentelemetry.iml" filepath="$PROJECT_DIR$/opentelemetry/opentelemetry.iml" />
+    </modules>
+  </component>
+</project>
